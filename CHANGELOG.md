@@ -1,0 +1,1 @@
+- **2025-01-02 16:20:24**: perf: optimize memory footprint by reducing ring buffer depth
