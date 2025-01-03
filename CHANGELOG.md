@@ -1,1 +1,2 @@
 - **2025-01-02 16:20:24**: perf: optimize memory footprint by reducing ring buffer depth
+- **2025-01-03 20:10:47**: refactor: clean up debug logs and serial telemetry
