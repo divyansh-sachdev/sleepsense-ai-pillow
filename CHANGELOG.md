@@ -3,3 +3,4 @@
 - **2025-01-04 11:18:24**: docs: clarify licensing and hardware bill of materials
 - **2025-01-06 20:31:24**: feat: implement moving average filter for noise suppression
 - **2025-01-07 10:53:20**: perf: tune I2C bus frequency to 400kHz for sensor polling
+- **2025-01-07 18:26:27**: test: validate thermal stability over continuous 6-hour test run
