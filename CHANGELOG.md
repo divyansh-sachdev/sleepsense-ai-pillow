@@ -5,3 +5,4 @@
 - **2025-01-07 10:53:20**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-01-07 18:26:27**: test: validate thermal stability over continuous 6-hour test run
 - **2025-01-08 11:10:34**: test: benchmark inference execution speed on ESP32 dual-core
+- **2025-01-08 11:27:32**: fix: prevent buffer underflow during rapid sensor reads
