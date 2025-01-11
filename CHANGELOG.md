@@ -8,3 +8,4 @@
 - **2025-01-08 11:27:32**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-01-09 19:39:17**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-01-11 11:07:24**: feat: add dynamic threshold adaptation for environmental drift
+- **2025-01-11 16:45:49**: refactor: clean up debug logs and serial telemetry
