@@ -11,3 +11,4 @@
 - **2025-01-11 16:45:49**: refactor: clean up debug logs and serial telemetry
 - **2025-01-11 17:41:22**: docs: add circuit wiring pinout and power consumption profile
 - **2025-01-16 17:15:33**: feat: implement moving average filter for noise suppression
+- **2025-01-16 17:18:27**: fix: prevent buffer underflow during rapid sensor reads
