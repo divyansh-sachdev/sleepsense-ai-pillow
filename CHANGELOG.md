@@ -13,3 +13,4 @@
 - **2025-01-16 17:15:33**: feat: implement moving average filter for noise suppression
 - **2025-01-16 17:18:27**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-01-17 11:43:50**: perf: tune I2C bus frequency to 400kHz for sensor polling
+- **2025-01-17 14:34:34**: fix: calibrate baseline sensor offset against reference multimeter
