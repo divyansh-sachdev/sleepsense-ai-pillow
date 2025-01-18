@@ -15,3 +15,4 @@
 - **2025-01-17 11:43:50**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-01-17 14:34:34**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-01-17 14:39:25**: fix: prevent buffer underflow during rapid sensor reads
+- **2025-01-18 10:19:12**: test: validate thermal stability over continuous 6-hour test run
