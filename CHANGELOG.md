@@ -17,3 +17,4 @@
 - **2025-01-17 14:39:25**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-01-18 10:19:12**: test: validate thermal stability over continuous 6-hour test run
 - **2025-01-18 17:30:27**: feat: add visual status LED pulse code for diagnostic mode
+- **2025-01-18 20:19:30**: perf: tune I2C bus frequency to 400kHz for sensor polling
