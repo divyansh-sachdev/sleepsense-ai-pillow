@@ -19,3 +19,4 @@
 - **2025-01-18 17:30:27**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-01-18 20:19:30**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-01-19 14:21:18**: feat: add dynamic threshold adaptation for environmental drift
+- **2025-01-19 17:18:41**: docs: clarify licensing and hardware bill of materials
