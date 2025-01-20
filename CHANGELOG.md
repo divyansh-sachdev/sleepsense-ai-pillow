@@ -21,3 +21,4 @@
 - **2025-01-19 14:21:18**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-01-19 17:18:41**: docs: clarify licensing and hardware bill of materials
 - **2025-01-19 18:46:39**: perf: tune I2C bus frequency to 400kHz for sensor polling
+- **2025-01-20 17:19:18**: refactor: modularize signal processing functions into separate header
