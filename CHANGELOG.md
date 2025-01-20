@@ -23,3 +23,4 @@
 - **2025-01-19 18:46:39**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-01-20 17:19:18**: refactor: modularize signal processing functions into separate header
 - **2025-01-20 18:42:35**: fix: calibrate baseline sensor offset against reference multimeter
+- **2025-01-20 20:21:47**: feat: add dynamic threshold adaptation for environmental drift
