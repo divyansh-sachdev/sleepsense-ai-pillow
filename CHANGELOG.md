@@ -27,3 +27,4 @@
 - **2025-01-21 10:12:19**: docs: document serial protocol packet structure and error codes
 - **2025-01-22 18:29:48**: refactor: clean up debug logs and serial telemetry
 - **2025-01-22 18:43:14**: perf: tune I2C bus frequency to 400kHz for sensor polling
+- **2025-01-22 19:38:26**: fix: handle edge case timeout in sensor initialization loop
