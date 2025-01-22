@@ -25,3 +25,4 @@
 - **2025-01-20 18:42:35**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-01-20 20:21:47**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-01-21 10:12:19**: docs: document serial protocol packet structure and error codes
+- **2025-01-22 18:29:48**: refactor: clean up debug logs and serial telemetry
