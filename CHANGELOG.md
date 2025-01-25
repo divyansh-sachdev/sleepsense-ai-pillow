@@ -29,3 +29,4 @@
 - **2025-01-22 18:43:14**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-01-22 19:38:26**: fix: handle edge case timeout in sensor initialization loop
 - **2025-01-25 11:23:37**: perf: tune FreeRTOS task priority to eliminate frame drops
+- **2025-01-25 11:48:44**: fix: resolve floating point conversion precision issue
