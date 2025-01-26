@@ -31,3 +31,4 @@
 - **2025-01-25 11:23:37**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-01-25 11:48:44**: fix: resolve floating point conversion precision issue
 - **2025-01-25 16:54:31**: feat: add dynamic threshold adaptation for environmental drift
+- **2025-01-26 16:37:21**: docs: clarify licensing and hardware bill of materials
