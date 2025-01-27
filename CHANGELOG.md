@@ -32,3 +32,4 @@
 - **2025-01-25 11:48:44**: fix: resolve floating point conversion precision issue
 - **2025-01-25 16:54:31**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-01-26 16:37:21**: docs: clarify licensing and hardware bill of materials
+- **2025-01-27 16:45:42**: feat: add EEPROM configuration persistence for user settings
