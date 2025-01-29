@@ -34,3 +34,4 @@
 - **2025-01-26 16:37:21**: docs: clarify licensing and hardware bill of materials
 - **2025-01-27 16:45:42**: feat: add EEPROM configuration persistence for user settings
 - **2025-01-28 17:53:20**: docs: update README setup instructions and dependencies
+- **2025-01-29 10:43:30**: feat: add EEPROM configuration persistence for user settings
