@@ -38,3 +38,4 @@
 - **2025-01-29 17:24:25**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-01-29 19:06:17**: test: validate thermal stability over continuous 6-hour test run
 - **2025-01-30 11:10:41**: docs: update README setup instructions and dependencies
+- **2025-01-30 11:53:44**: feat: add dynamic threshold adaptation for environmental drift
