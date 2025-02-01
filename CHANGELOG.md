@@ -40,3 +40,4 @@
 - **2025-01-30 11:10:41**: docs: update README setup instructions and dependencies
 - **2025-01-30 11:53:44**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-01-30 14:13:40**: fix: resolve floating point conversion precision issue
+- **2025-02-01 16:30:33**: fix: handle edge case timeout in sensor initialization loop
