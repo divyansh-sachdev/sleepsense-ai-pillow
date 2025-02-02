@@ -44,3 +44,4 @@
 - **2025-02-01 20:53:22**: test: validate thermal stability over continuous 6-hour test run
 - **2025-02-02 10:42:45**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-02-02 15:09:31**: feat: add dynamic threshold adaptation for environmental drift
+- **2025-02-02 19:12:25**: test: benchmark inference execution speed on ESP32 dual-core
