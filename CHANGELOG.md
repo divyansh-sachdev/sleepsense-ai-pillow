@@ -45,3 +45,4 @@
 - **2025-02-02 10:42:45**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-02-02 15:09:31**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-02-02 19:12:25**: test: benchmark inference execution speed on ESP32 dual-core
+- **2025-02-07 11:08:35**: fix: resolve floating point conversion precision issue
