@@ -49,3 +49,4 @@
 - **2025-02-07 18:27:37**: perf: optimize memory footprint by reducing ring buffer depth
 - **2025-02-13 14:31:41**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-02-14 10:29:26**: docs: document serial protocol packet structure and error codes
+- **2025-02-18 17:08:13**: feat: add EEPROM configuration persistence for user settings
