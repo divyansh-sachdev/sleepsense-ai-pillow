@@ -52,3 +52,4 @@
 - **2025-02-18 17:08:13**: feat: add EEPROM configuration persistence for user settings
 - **2025-02-19 20:15:13**: docs: clarify licensing and hardware bill of materials
 - **2025-02-20 18:12:46**: test: verify timer interrupt latency under heavy load
+- **2025-02-21 10:44:15**: refactor: simplify state machine transition logic
