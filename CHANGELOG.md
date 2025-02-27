@@ -56,3 +56,4 @@
 - **2025-02-23 17:20:26**: test: validate thermal stability over continuous 6-hour test run
 - **2025-02-23 19:25:14**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-02-24 16:13:32**: docs: document serial protocol packet structure and error codes
+- **2025-02-27 19:39:29**: feat: implement low-power light sleep mode during idle intervals
