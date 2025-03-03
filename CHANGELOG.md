@@ -58,3 +58,4 @@
 - **2025-02-24 16:13:32**: docs: document serial protocol packet structure and error codes
 - **2025-02-27 19:39:29**: feat: implement low-power light sleep mode during idle intervals
 - **2025-02-28 16:47:16**: perf: tune I2C bus frequency to 400kHz for sensor polling
+- **2025-03-03 15:48:50**: feat: add hardware failsafe watchdog timer routine
