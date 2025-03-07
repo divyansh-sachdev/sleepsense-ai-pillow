@@ -60,3 +60,4 @@
 - **2025-02-28 16:47:16**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-03-03 15:48:50**: feat: add hardware failsafe watchdog timer routine
 - **2025-03-06 16:15:38**: refactor: simplify state machine transition logic
+- **2025-03-07 11:49:19**: test: validate thermal stability over continuous 6-hour test run
