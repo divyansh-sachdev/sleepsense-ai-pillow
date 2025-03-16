@@ -62,3 +62,4 @@
 - **2025-03-06 16:15:38**: refactor: simplify state machine transition logic
 - **2025-03-07 11:49:19**: test: validate thermal stability over continuous 6-hour test run
 - **2025-03-07 20:05:17**: refactor: modularize signal processing functions into separate header
+- **2025-03-16 11:29:12**: perf: tune FreeRTOS task priority to eliminate frame drops
