@@ -64,3 +64,4 @@
 - **2025-03-07 20:05:17**: refactor: modularize signal processing functions into separate header
 - **2025-03-16 11:29:12**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-03-21 20:12:34**: docs: update README setup instructions and dependencies
+- **2025-03-25 21:25:17**: feat: add visual status LED pulse code for diagnostic mode
