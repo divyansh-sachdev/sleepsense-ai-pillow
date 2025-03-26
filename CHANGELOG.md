@@ -65,3 +65,4 @@
 - **2025-03-16 11:29:12**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-03-21 20:12:34**: docs: update README setup instructions and dependencies
 - **2025-03-25 21:25:17**: feat: add visual status LED pulse code for diagnostic mode
+- **2025-03-26 17:30:28**: test: benchmark inference execution speed on ESP32 dual-core
